@@ -1,0 +1,30 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\SpriteEditor\SpriteSheetEditor\bin\Release\ReadMe.txt
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\SpriteEditor\SpriteSheetEditor\bin\Release\SpriteSheetEditor.exe.manifest
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\SpriteEditor\SpriteSheetEditor\bin\Release\SpriteSheetEditor.application
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\SpriteEditor\SpriteSheetEditor\bin\Release\SpriteSheetEditor.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\SpriteEditor\SpriteSheetEditor\bin\Release\SpriteSheetEditor.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\SpriteEditor\SpriteSheetEditor\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\SpriteEditor\SpriteSheetEditor\obj\x86\Release\SpriteSheetEditor.frmMain.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\SpriteEditor\SpriteSheetEditor\obj\x86\Release\SpriteSheetEditor.Properties.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\SpriteEditor\SpriteSheetEditor\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\SpriteEditor\SpriteSheetEditor\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\SpriteEditor\SpriteSheetEditor\obj\x86\Release\SpriteSheetEditor.exe.manifest
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\SpriteEditor\SpriteSheetEditor\obj\x86\Release\SpriteSheetEditor.application
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\SpriteEditor\SpriteSheetEditor\obj\x86\Release\SpriteSheetEditor.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\SpriteEditor\SpriteSheetEditor\obj\x86\Release\SpriteSheetEditor.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\SpriteEditor\SpriteSheetEditor\obj\x86\Release\SpriteSheetEditor.frmSelectReplaceColor.resources
+C:\Users\Anonymous\Documents\Visual Studio 2010\Projects\SpriteSheetEditor\SpriteSheetEditor\obj\x86\Release\SpriteSheetEditor.exe
+C:\Users\Anonymous\Documents\Visual Studio 2010\Projects\SpriteSheetEditor\SpriteSheetEditor\obj\x86\Release\SpriteSheetEditor.pdb
+C:\Users\Anonymous\Documents\Visual Studio 2010\Projects\SpriteSheetEditor\SpriteSheetEditor\bin\Release\ReadMe.txt
+C:\Users\Anonymous\Documents\Visual Studio 2010\Projects\SpriteSheetEditor\SpriteSheetEditor\bin\Release\SpriteSheetEditor.exe.manifest
+C:\Users\Anonymous\Documents\Visual Studio 2010\Projects\SpriteSheetEditor\SpriteSheetEditor\bin\Release\SpriteSheetEditor.application
+C:\Users\Anonymous\Documents\Visual Studio 2010\Projects\SpriteSheetEditor\SpriteSheetEditor\bin\Release\SpriteSheetEditor.exe
+C:\Users\Anonymous\Documents\Visual Studio 2010\Projects\SpriteSheetEditor\SpriteSheetEditor\bin\Release\SpriteSheetEditor.pdb
+C:\Users\Anonymous\Documents\Visual Studio 2010\Projects\SpriteSheetEditor\SpriteSheetEditor\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Anonymous\Documents\Visual Studio 2010\Projects\SpriteSheetEditor\SpriteSheetEditor\obj\x86\Release\SpriteSheetEditor.frmMain.resources
+C:\Users\Anonymous\Documents\Visual Studio 2010\Projects\SpriteSheetEditor\SpriteSheetEditor\obj\x86\Release\SpriteSheetEditor.frmSelectReplaceColor.resources
+C:\Users\Anonymous\Documents\Visual Studio 2010\Projects\SpriteSheetEditor\SpriteSheetEditor\obj\x86\Release\SpriteSheetEditor.Properties.Resources.resources
+C:\Users\Anonymous\Documents\Visual Studio 2010\Projects\SpriteSheetEditor\SpriteSheetEditor\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Anonymous\Documents\Visual Studio 2010\Projects\SpriteSheetEditor\SpriteSheetEditor\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Anonymous\Documents\Visual Studio 2010\Projects\SpriteSheetEditor\SpriteSheetEditor\obj\x86\Release\SpriteSheetEditor.exe.manifest
+C:\Users\Anonymous\Documents\Visual Studio 2010\Projects\SpriteSheetEditor\SpriteSheetEditor\obj\x86\Release\SpriteSheetEditor.application

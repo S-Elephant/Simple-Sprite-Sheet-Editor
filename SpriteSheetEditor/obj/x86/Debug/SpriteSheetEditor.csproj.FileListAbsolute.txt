@@ -1,0 +1,58 @@
+D:\Development\Projects\SpriteSheetEditor\SpriteSheetEditor\bin\Debug\SpriteSheetEditor.exe
+D:\Development\Projects\SpriteSheetEditor\SpriteSheetEditor\bin\Debug\SpriteSheetEditor.pdb
+D:\Development\Projects\SpriteSheetEditor\SpriteSheetEditor\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Development\Projects\SpriteSheetEditor\SpriteSheetEditor\obj\x86\Debug\SpriteSheetEditor.Properties.Resources.resources
+D:\Development\Projects\SpriteSheetEditor\SpriteSheetEditor\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Development\Projects\SpriteSheetEditor\SpriteSheetEditor\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Development\Projects\SpriteSheetEditor\SpriteSheetEditor\obj\x86\Debug\SpriteSheetEditor.exe
+D:\Development\Projects\SpriteSheetEditor\SpriteSheetEditor\obj\x86\Debug\SpriteSheetEditor.pdb
+D:\Development\Projects\SpriteSheetEditor\SpriteSheetEditor\obj\x86\Debug\SpriteSheetEditor.frmMain.resources
+D:\Development\Projects\SpriteSheetEditor\SpriteSheetEditor\bin\Debug\SpriteSheetEditor.exe.manifest
+D:\Development\Projects\SpriteSheetEditor\SpriteSheetEditor\bin\Debug\SpriteSheetEditor.application
+D:\Development\Projects\SpriteSheetEditor\SpriteSheetEditor\obj\x86\Debug\SpriteSheetEditor.exe.manifest
+D:\Development\Projects\SpriteSheetEditor\SpriteSheetEditor\obj\x86\Debug\SpriteSheetEditor.application
+D:\Development\Projects\SpriteEditor2\SpriteSheetEditor\obj\x86\Debug\SpriteSheetEditor.exe
+D:\Development\Projects\SpriteEditor2\SpriteSheetEditor\obj\x86\Debug\SpriteSheetEditor.pdb
+D:\Development\Projects\SpriteEditor2\SpriteSheetEditor\bin\Debug\SpriteSheetEditor.exe.manifest
+D:\Development\Projects\SpriteEditor2\SpriteSheetEditor\bin\Debug\SpriteSheetEditor.application
+D:\Development\Projects\SpriteEditor2\SpriteSheetEditor\bin\Debug\SpriteSheetEditor.exe
+D:\Development\Projects\SpriteEditor2\SpriteSheetEditor\bin\Debug\SpriteSheetEditor.pdb
+D:\Development\Projects\SpriteEditor2\SpriteSheetEditor\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Development\Projects\SpriteEditor2\SpriteSheetEditor\obj\x86\Debug\SpriteSheetEditor.frmMain.resources
+D:\Development\Projects\SpriteEditor2\SpriteSheetEditor\obj\x86\Debug\SpriteSheetEditor.Properties.Resources.resources
+D:\Development\Projects\SpriteEditor2\SpriteSheetEditor\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Development\Projects\SpriteEditor2\SpriteSheetEditor\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Development\Projects\SpriteEditor2\SpriteSheetEditor\obj\x86\Debug\SpriteSheetEditor.exe.manifest
+D:\Development\Projects\SpriteEditor2\SpriteSheetEditor\obj\x86\Debug\SpriteSheetEditor.application
+D:\Development\Projects\SpriteEditor\SpriteSheetEditor\obj\x86\Debug\SpriteSheetEditor.exe
+D:\Development\Projects\SpriteEditor\SpriteSheetEditor\obj\x86\Debug\SpriteSheetEditor.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\SpriteEditor\SpriteSheetEditor\obj\x86\Debug\SpriteSheetEditor.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\SpriteEditor\SpriteSheetEditor\obj\x86\Debug\SpriteSheetEditor.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\SpriteEditor\SpriteSheetEditor\bin\Debug\SpriteSheetEditor.exe.manifest
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\SpriteEditor\SpriteSheetEditor\bin\Debug\SpriteSheetEditor.application
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\SpriteEditor\SpriteSheetEditor\bin\Debug\SpriteSheetEditor.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\SpriteEditor\SpriteSheetEditor\bin\Debug\SpriteSheetEditor.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\SpriteEditor\SpriteSheetEditor\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\SpriteEditor\SpriteSheetEditor\obj\x86\Debug\SpriteSheetEditor.frmMain.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\SpriteEditor\SpriteSheetEditor\obj\x86\Debug\SpriteSheetEditor.Properties.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\SpriteEditor\SpriteSheetEditor\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\SpriteEditor\SpriteSheetEditor\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\SpriteEditor\SpriteSheetEditor\obj\x86\Debug\SpriteSheetEditor.exe.manifest
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\SpriteEditor\SpriteSheetEditor\obj\x86\Debug\SpriteSheetEditor.application
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\SpriteEditor\SpriteSheetEditor\bin\Debug\ReadMe.txt
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\SpriteEditor\SpriteSheetEditor\obj\x86\Debug\SpriteSheetEditor.frmSelectReplaceColor.resources
+C:\Users\Anonymous\Documents\Visual Studio 2010\Projects\SpriteSheetEditor\SpriteSheetEditor\obj\x86\Debug\SpriteSheetEditor.exe
+C:\Users\Anonymous\Documents\Visual Studio 2010\Projects\SpriteSheetEditor\SpriteSheetEditor\obj\x86\Debug\SpriteSheetEditor.pdb
+C:\Users\Anonymous\Documents\Visual Studio 2010\Projects\SpriteSheetEditor\SpriteSheetEditor\bin\Debug\ReadMe.txt
+C:\Users\Anonymous\Documents\Visual Studio 2010\Projects\SpriteSheetEditor\SpriteSheetEditor\bin\Debug\SpriteSheetEditor.exe.manifest
+C:\Users\Anonymous\Documents\Visual Studio 2010\Projects\SpriteSheetEditor\SpriteSheetEditor\bin\Debug\SpriteSheetEditor.application
+C:\Users\Anonymous\Documents\Visual Studio 2010\Projects\SpriteSheetEditor\SpriteSheetEditor\bin\Debug\SpriteSheetEditor.exe
+C:\Users\Anonymous\Documents\Visual Studio 2010\Projects\SpriteSheetEditor\SpriteSheetEditor\bin\Debug\SpriteSheetEditor.pdb
+C:\Users\Anonymous\Documents\Visual Studio 2010\Projects\SpriteSheetEditor\SpriteSheetEditor\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Anonymous\Documents\Visual Studio 2010\Projects\SpriteSheetEditor\SpriteSheetEditor\obj\x86\Debug\SpriteSheetEditor.frmMain.resources
+C:\Users\Anonymous\Documents\Visual Studio 2010\Projects\SpriteSheetEditor\SpriteSheetEditor\obj\x86\Debug\SpriteSheetEditor.frmSelectReplaceColor.resources
+C:\Users\Anonymous\Documents\Visual Studio 2010\Projects\SpriteSheetEditor\SpriteSheetEditor\obj\x86\Debug\SpriteSheetEditor.Properties.Resources.resources
+C:\Users\Anonymous\Documents\Visual Studio 2010\Projects\SpriteSheetEditor\SpriteSheetEditor\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Anonymous\Documents\Visual Studio 2010\Projects\SpriteSheetEditor\SpriteSheetEditor\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Anonymous\Documents\Visual Studio 2010\Projects\SpriteSheetEditor\SpriteSheetEditor\obj\x86\Debug\SpriteSheetEditor.exe.manifest
+C:\Users\Anonymous\Documents\Visual Studio 2010\Projects\SpriteSheetEditor\SpriteSheetEditor\obj\x86\Debug\SpriteSheetEditor.application
